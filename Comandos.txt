@@ -1,0 +1,18 @@
+cd cambiar directorio
+clear limpiar terminal
+mkdir crear carpeta
+touch crear archivo vacio
+ls listar documentos
+cd .. devolverse a la carpeta anterior
+cat accede al contenido de un archivo y lo muestra en la terminal
+history muestra toda la historia de comandos
+rm borra archivo
+git init para inicializar
+git status se ve el estado del proyecto en este momento
+git add . incluye los archivos para git los persiga, pasa de la ram a la staging
+git rm --cached es para volver al estado anterior del add
+git commit -m "mensaje" envia cambios al repositorio 
+git diff version nueva version antigua se usa para comparar
+
+para salir en git bush es esc shift zz
+ 
